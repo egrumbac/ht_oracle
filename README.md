@@ -1,3 +1,9 @@
+# Humane Tech Oracle Deck
+
+This deck is a project from the [Lincoln Center for Applied Ethics](https://lincolncenter.asu.edu/) at Arizona State University and collaborators from the Humane Deck Design Studio series. 
+
+Art by [Neil Smith](https://neilsmithillustration.co.uk/about). Neil Smith is an illustrator, graphic designer, and educator who worked as a Senior Art Editor at Nature before becoming freelance in 2008. Neil works for many leading publishers and institutions including Springer Nature, MIT Press, Rockefeller University Press, Cambridge University Press, Karger, Imperial College, Edinburg University, and Arizona State University. Neil collaborates from people and institutions to help them visualize their ideas, research, and concepts. 
+
 # Creative Theme for Jekyll
 
 A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
